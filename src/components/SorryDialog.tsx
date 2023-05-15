@@ -16,7 +16,7 @@ export const SorryDialog = ({ show, close }: SorryDialogProps) => {
       {`${i18n?.t("PLEASE_MONITOR", "PLEASE_MONITOR", {ns: 'sorryDialog'})}`}
         <a
           className="link"
-          href="https://reworkd.github.io/AgentGPT-Documentation/docs/roadmap"
+          href="https://github.com/rajathooda/agent-gpt"
           target="_blank"
           rel="noreferrer"
         >
