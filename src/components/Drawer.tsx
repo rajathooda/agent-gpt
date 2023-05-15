@@ -82,7 +82,7 @@ const Drawer = ({
   };
 
   const handleSupport = () => {
-    const donationUrl = "https://github.com/sponsors/reworkd-admin";
+    const donationUrl = "https://github.com/rajathooda/agent-gpt";
     window.open(donationUrl, "_blank");
   };
 
@@ -191,7 +191,7 @@ const Drawer = ({
                 />
               }
               text="Discord"
-              href="https://discord.gg/jdSBAnmdnY"
+              href="https://discordapp.com/users/kaizoku#6398"
               target="_blank"
               small
             />
@@ -203,7 +203,7 @@ const Drawer = ({
                 />
               }
               text="Twitter"
-              href="https://twitter.com/asimdotshrestha/status/1644883727707959296"
+              href="https://twitter.com/"
               target="_blank"
               small
             />
@@ -215,7 +215,7 @@ const Drawer = ({
                 />
               }
               text="GitHub"
-              href="https://github.com/reworkd/AgentGPT"
+              href="https://github.com/rajathooda/agent-gpt"
               target="_blank"
               small
             />
