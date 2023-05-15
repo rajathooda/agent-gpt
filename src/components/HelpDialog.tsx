@@ -27,7 +27,7 @@ export default function HelpDialog({
             ns: "help",
           })}
           <a
-            href="https://reworkd.github.io/AgentGPT-Documentation/docs/intro"
+            href="https://github.com/rajathooda/agent-gpt"
             className="text-sky-500"
           >
             {t("AGENTGPT_DOCUMENTATION", { ns: "help" })}
@@ -39,7 +39,7 @@ export default function HelpDialog({
           <div
             className="cursor-pointer rounded-full bg-black/30 p-3 hover:bg-black/70"
             onClick={() =>
-              window.open("https://discord.gg/jdSBAnmdnY", "_blank")
+              window.open("discordapp.com/users/kaizoku#6398", "_blank")
             }
           >
             <FaDiscord size={30} />
@@ -48,7 +48,7 @@ export default function HelpDialog({
             className="cursor-pointer rounded-full bg-black/30 p-3 hover:bg-black/70"
             onClick={() =>
               window.open(
-                "https://twitter.com/asimdotshrestha/status/1644883727707959296",
+                "https://twitter.com/",
                 "_blank"
               )
             }
@@ -58,7 +58,7 @@ export default function HelpDialog({
           <div
             className="cursor-pointer rounded-full bg-black/30 p-3 hover:bg-black/70"
             onClick={() =>
-              window.open("https://github.com/reworkd/AgentGPT", "_blank")
+              window.open("https://github.com/rajathooda/agent-gpt", "_blank")
             }
           >
             <FaGithub size={30} />
