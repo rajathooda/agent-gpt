@@ -433,7 +433,7 @@ const FAQ = () => {
       <br />
       If you are facing issues, please head over to our{" "}
       <a
-        href="https://reworkd.github.io/AgentGPT-Documentation/docs/faq"
+        href="https://github.com/rajathooda/agent-gpt"
         className="text-sky-500"
       >
         FAQ
